@@ -1,0 +1,8 @@
+a= "Amity"
+b= "University"
+len1 = len(a)
+print(len1)#Printing length of the string which is 5
+len2 = len(b)
+print(len2)#Printing length of the string which is 10
+final_str = a + " " + b #entering empty strings is also valid 
+print(final_str) 
