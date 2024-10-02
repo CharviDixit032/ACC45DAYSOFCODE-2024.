@@ -1,0 +1,2 @@
+str = "I am Charvi Dixit"
+print(str.replace("i", "e"))
